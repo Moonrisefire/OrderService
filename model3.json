@@ -1,0 +1,49 @@
+{
+  "order_uid": "abcdef1234567890xyz",
+  "track_number": "TRACK00001",
+  "entry": "WBIL",
+  "delivery": {
+    "name": "Ivan Petrov",
+    "phone": "+79161234567",
+    "zip": "101000",
+    "city": "Moscow",
+    "address": "Lenina 1",
+    "region": "Moscow Region",
+    "email": "ivan.petrov@example.ru"
+  },
+  "payment": {
+    "transaction": "abcdef1234567890xyz",
+    "request_id": "",
+    "currency": "RUB",
+    "provider": "yandex_pay",
+    "amount": 500,
+    "payment_dt": 1659338400,
+    "bank": "Sberbank",
+    "delivery_cost": 100,
+    "goods_total": 400,
+    "custom_fee": 0
+  },
+  "items": [
+    {
+      "chrt_id": 555666,
+      "track_number": "TRACK00001",
+      "price": 400,
+      "rid": "rid555",
+      "name": "Book",
+      "sale": 0,
+      "size": "Standard",
+      "total_price": 400,
+      "nm_id": 999888,
+      "brand": "BookBrand",
+      "status": 200
+    }
+  ],
+  "locale": "ru",
+  "internal_signature": "",
+  "customer_id": "ivanp",
+  "delivery_service": "pochta",
+  "shardkey": "1",
+  "sm_id": 1,
+  "date_created": "2022-07-01T16:00:00Z",
+  "oof_shard": "1"
+}
