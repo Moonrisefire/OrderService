@@ -9,3 +9,7 @@ This version application "OrderService" to WBTECH to check.
 Если нужно отправлять в БД другие данные либо заменить файл model.json, либо в файле send_order.go в 20 строке заменить название файла и заново запустить через терминал go run cmd/send_order.go
 
 P.S. без предварительно запущенных docker-сервисов и основного файла не отправлять, тк сервер запускается в основном файле.
+
+
+https://github.com/user-attachments/assets/de465034-8a94-422f-a909-f543828cb6e3
+
